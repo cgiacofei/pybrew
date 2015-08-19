@@ -30,10 +30,6 @@ class Vessel(object):
         pass
 
 
-class Brewery(object):
-    pass
-
-
 if __name__ == '__main__':
     test = Vessel('dat')
 
